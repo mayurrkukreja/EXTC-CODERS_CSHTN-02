@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460043039715",
+    "firebase_url": "https://egovernance-c579f-default-rtdb.firebaseio.com",
+    "project_id": "egovernance-c579f",
+    "storage_bucket": "egovernance-c579f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460043039715:android:eb1ec230bbae1ba00466d6",
+        "android_client_info": {
+          "package_name": "com.example.egovernance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460043039715-bu69f6jq3md3m94esm81u5map6ir9vnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBMXEmssv-MS3F2yCLV2PTN7axeKLO3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460043039715-bu69f6jq3md3m94esm81u5map6ir9vnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
