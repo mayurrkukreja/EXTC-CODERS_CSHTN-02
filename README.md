@@ -22,21 +22,23 @@ To deploy this project run in your project directory
   
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/Neha/Desktop/Screenshot_1632470632.png)
+![Login Screen](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632470632.png)
 
-![App Screenshot](file:///C:/Users/Neha/Desktop/Screenshot_1632559018.png)
+![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632552240.png)
 
-![App Screenshot](file:///C:/Users/Neha/Desktop/Screenshot_1632558424.png)
+![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632558421.png)
 
-![App Screenshot](file:///C:/Users/Neha/Desktop/Screenshot_1632558416.png)
+![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632558544.png)
 
-![App Screenshot](file:///C:/Users/Neha/Desktop/Screenshot_1632558544.png)
+![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(4).png)
 
-![App Screenshot](file:///C:/Users/Neha/Pictures/Screenshots/Screenshot%20(4).png)
+![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(5).png)
 
-![App Screenshot](file:///C:/Users/Neha/Pictures/Screenshots/Screenshot%20(5).png)
+![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(6).png)
 
-![App Screenshot](file:///C:/Users/Neha/Pictures/Screenshots/Screenshot%20(7).png)
+![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(7).png)
+
+
 
   
 ## Tech Stack
