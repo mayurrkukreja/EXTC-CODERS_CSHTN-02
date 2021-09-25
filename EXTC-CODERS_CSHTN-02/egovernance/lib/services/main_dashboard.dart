@@ -1,17 +1,18 @@
 import 'package:egovernance/Widgets/navigationDrawer.dart';
-import 'package:egovernance/pages/wallet.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_svg/svg.dart';
 
-class MainScreen extends StatefulWidget {
-  static const String idScreen = "mainScreen";
-  const MainScreen({Key? key}) : super(key: key);
+class Dashboard extends StatefulWidget {
+  static const String idScreen = "Dashboard";
+  const Dashboard({Key? key}) : super(key: key);
 
   @override
-  _MainScreenState createState() => _MainScreenState();
+  _Dashboard createState() => _Dashboard();
 }
 
-class _MainScreenState extends State<MainScreen> {
+class _Dashboard extends State<Dashboard> {
   @override
   Widget build(BuildContext context) {
     // to get size
@@ -36,7 +37,7 @@ class _MainScreenState extends State<MainScreen> {
               child: Column(
                 children: <Widget>[
                   Container(
-                    height: 14,
+                    height: 64,
                     margin: const EdgeInsets.only(bottom: 20),
                     child: Row(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -58,25 +59,22 @@ class _MainScreenState extends State<MainScreen> {
                       primary: false,
                       crossAxisCount: 2,
                       children: <Widget>[
-                        GestureDetector(
-                          onTap: () => Wallet(),
-                          child: Card(
-                            shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(10)),
-                            elevation: 4,
-                            child: Column(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              children: <Widget>[
-                                SvgPicture.asset(
-                                  'images/wallet.svg',
-                                  height: 130,
-                                ),
-                                Text(
-                                  'Pradhanmantri Yojna Investments',
-                                  style: cardTextStyle,
-                                )
-                              ],
-                            ),
+                        Card(
+                          shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(10)),
+                          elevation: 4,
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: <Widget>[
+                              SvgPicture.asset(
+                                'images/wallet.svg',
+                                height: 130,
+                              ),
+                              Text(
+                                'Pradhanmantri Yojna Investments',
+                                style: cardTextStyle,
+                              )
+                            ],
                           ),
                         ),
                         Card(
@@ -123,7 +121,7 @@ class _MainScreenState extends State<MainScreen> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: <Widget>[
                               SvgPicture.asset(
-                                'images/education.svg',
+                                'images/Het.svg',
                                 height: 128,
                               ),
                               Text(
@@ -141,7 +139,7 @@ class _MainScreenState extends State<MainScreen> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: <Widget>[
                               SvgPicture.asset(
-                                'images/land.svg',
+                                'images/Het.svg',
                                 height: 128,
                               ),
                               Text(
@@ -159,11 +157,11 @@ class _MainScreenState extends State<MainScreen> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: <Widget>[
                               SvgPicture.asset(
-                                'images/tax.svg',
+                                'images/Het.svg',
                                 height: 128,
                               ),
                               Text(
-                                ' Tax Department',
+                                'Course Plan',
                                 style: cardTextStyle,
                               )
                             ],
