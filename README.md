@@ -19,9 +19,10 @@ To deploy this project run in your project directory
 ```
 
 
-  
 ## Screenshots
-
+<details>
+  <summary>Click to expand !</summary>
+  
 ![Login Screen](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632470632.png)
 
 ![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632552240.png)
@@ -38,8 +39,7 @@ To deploy this project run in your project directory
 
 ![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(7).png)
 
-
-
+</details>
   
 ## Tech Stack
 
