@@ -23,21 +23,13 @@ To deploy this project run in your project directory
 <details>
   <summary>Click to expand !</summary>
   
-![Login Screen](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632470632.png)
-
-![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632552240.png)
-
-![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632558421.png)
-
-![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot_1632558544.png)
-
-![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(4).png)
-
-![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(5).png)
-
-![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(6).png)
-
-![DashBoard](EXTC-CODERS_CSHTN-02/egovernance/images/Screenshot%20(7).png)
+    <img src="https://github.com/mayurrkukreja/EXTC-CODERS_CSHTN-02/blob/main/images/Screenshot_1632470632.png?raw=true" width="250" height="500">
+    <img src="https://github.com/mayurrkukreja/EXTC-CODERS_CSHTN-02/blob/main/images/Screenshot_1632558421.png?raw=true" width="250" height="500">
+    <img src="https://github.com/mayurrkukreja/EXTC-CODERS_CSHTN-02/blob/main/images/Screenshot_1632558544.png?raw=true" width="250" height="500">
+    <img src="https://github.com/mayurrkukreja/EXTC-CODERS_CSHTN-02/blob/main/images/Screenshot%20(4).png?raw=true" width="720" height="480">
+    <img src="https://github.com/mayurrkukreja/EXTC-CODERS_CSHTN-02/blob/main/images/Screenshot%20(5).png?raw=true" width="720" height="480">
+    <img src="https://github.com/mayurrkukreja/EXTC-CODERS_CSHTN-02/blob/main/images/Screenshot%20(6).png?raw=true" width="720" height="480">
+    <img src="https://github.com/mayurrkukreja/EXTC-CODERS_CSHTN-02/blob/main/images/Screenshot%20(7).png?raw=true" width="720" height="480">
 
 </details>
   
